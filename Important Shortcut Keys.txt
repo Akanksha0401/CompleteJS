@@ -1,0 +1,4 @@
+// for vs code
+Ctrl+B
+Ctrl+/  for commenting
+windows key + .
